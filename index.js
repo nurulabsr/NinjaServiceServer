@@ -50,7 +50,6 @@ app.get('/getSkipping', (req, res) => {
 })
 
 
-
 app.delete('/deleteProduct/:id', (req, res) =>{
 
   const id = ObjectID(req.params.id);
@@ -61,17 +60,7 @@ app.delete('/deleteProduct/:id', (req, res) =>{
   }))
 })
 
-
-
-
-  
   })
-
-
-
-
-
-
 
 
 
