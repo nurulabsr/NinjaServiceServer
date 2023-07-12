@@ -1,4 +1,4 @@
-# This is assignment eleven server side
+# Assignment eleven server side
 
 _Assignment overall_
 
